@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Web development and DSA.
+ ### 🌱 I’m currently learning Web development and DSA.
 ## 
 
 
